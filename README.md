@@ -1,2 +1,2 @@
-# simple_shell
+ simple shell
 new project of simple shell
